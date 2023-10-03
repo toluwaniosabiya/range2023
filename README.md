@@ -1,2 +1,29 @@
-# range2023
-This repository has the code to solve the range problem related with Data Workshop - LIDA 2323
+range
+==============================
+
+A range problem
+
+Project Organization
+--------------------
+
+    .
+    ├── AUTHORS.md
+    ├── LICENSE
+    ├── README.md
+    ├── bin
+    ├── config
+    ├── data
+    │   ├── external
+    │   ├── interim
+    │   ├── processed
+    │   └── raw
+    ├── docs
+    ├── notebooks
+    ├── reports
+    │   └── figures
+    └── src
+        ├── data
+        ├── external
+        ├── models
+        ├── tools
+        └── visualization
